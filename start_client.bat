@@ -1,0 +1,1 @@
+start Client\BrawlStars[R].exe
