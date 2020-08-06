@@ -4,7 +4,7 @@
 
 1. 客户端项目文件结构如下：
 
-![01](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\01.png)
+![](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/01.png)
 
 Assets中包括了场景，脚本，预设，纹理，材质以及动画等各种资源文件
 
