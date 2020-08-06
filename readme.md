@@ -4,17 +4,17 @@
 
 1. 客户端项目文件结构如下：
 
-![](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/01.png)
+![01](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/01.png)
 
 Assets中包括了场景，脚本，预设，纹理，材质以及动画等各种资源文件
 
 其中场景包括welcome和main两部分构成，脚本按照Controller、Manager和Network等分功能设计
 
-![02](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\02.png)
+![02](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/02.png)
 
 2. 服务端项目文件结构如下：
 
- ![03](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\03.png)
+ ![03](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/03.png)
 
 服务端与客户端相似，按照不同分工设计出user、player、room和game等类模块，结合提供的RPC框架辅以AI与服务多线程。
 
@@ -92,29 +92,29 @@ game
 
 1. 登录注册
 
-   ![1](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\1.png)
+   ![1](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/1.png)
 
 2. 大厅
 
-   ![2](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\2.png)
+   ![2](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/2.png)
 
 3. 房间内
 
-   ![3](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\3.png)
+   ![3](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/3.png)
 
 4. 游戏主场景
 
-   ![4](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\4.png)
+   ![4](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/4.png)
 
 5. 胜败判断与结算
 
-   ![5](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\5.png)
+   ![5](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/5.png)
 
-   ![6](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\6.png)
+   ![6](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/6.png)
 
-   ![7](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\7.png)
+   ![7](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/7.png)
 
 6. 英雄升级
 
-   ![8](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\8.png)
+   ![8](https://github.com/wonderly321/BrawlStars-Remake/blob/master/Img/8.png)
 
