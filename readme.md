@@ -4,21 +4,17 @@
 
 1. 客户端项目文件结构如下：
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![01](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\01.png)
 
 Assets中包括了场景，脚本，预设，纹理，材质以及动画等各种资源文件
 
 其中场景包括welcome和main两部分构成，脚本按照Controller、Manager和Network等分功能设计
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![02](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\02.png)
 
 2. 服务端项目文件结构如下：
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)
-
-
-
- 
+ ![03](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\03.png)
 
 服务端与客户端相似，按照不同分工设计出user、player、room和game等类模块，结合提供的RPC框架辅以AI与服务多线程。
 
@@ -94,28 +90,31 @@ game
 
 四、 游戏截图
 
-登录注册
+1. 登录注册
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image019.jpg)
+   ![1](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\1.png)
 
-大厅
+2. 大厅
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image021.jpg)
+   ![2](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\2.png)
 
-房间内
+3. 房间内
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image023.jpg)
+   ![3](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\3.png)
 
-游戏主场景
+4. 游戏主场景
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image025.jpg)
+   ![4](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\4.png)
 
-胜败判断与结算
+5. 胜败判断与结算
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image027.jpg)![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image029.jpg)
+   ![5](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\5.png)
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image031.jpg)
+   ![6](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\6.png)
 
-英雄升级
+   ![7](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\7.png)
 
-![img](file:///C:/Users/liyuan05/AppData/Local/Temp/msohtmlclip1/01/clip_image033.jpg)
+6. 英雄升级
+
+   ![8](C:\Users\liyuan05\Desktop\大作业\GM26组-程序大作业-李园\Img\8.png)
+
